@@ -22,9 +22,13 @@ Desarrollador Fullstack apasionado por crear soluciones que resuelven problemas 
 - [Email](mailto:luisdavidperez61@gmail.com)
 
 ---
-![Stats de Luis](https://github-readme-stats.vercel.app/api?username=LuisPerezcx&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPerezcx&layout=compact&theme=radical)
-![Stats](https://github-stats.pufler.dev/api?username=LuisPerezcx)
+### 🛠️ Tecnologías y Herramientas
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <!--
 **LuisPerezcx/LuisPerezcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
