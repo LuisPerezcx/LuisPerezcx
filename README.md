@@ -30,6 +30,9 @@ Desarrollador Fullstack apasionado por crear soluciones que resuelven problemas 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuisPerezcx&theme=dark&hide_border=false)<br/>
+
 <!--
 **LuisPerezcx/LuisPerezcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
