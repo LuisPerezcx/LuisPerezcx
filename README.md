@@ -22,10 +22,9 @@ Desarrollador Fullstack apasionado por crear soluciones que resuelven problemas 
 - [Email](mailto:luisdavidperez61@gmail.com)
 
 ---
-![Stats de Luis](https://github-readme-stats-git-master-jstin.vercel.app/api?username=LuisPerezcx&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats-git-master-jstin.vercel.app/api/top-langs/?username=LuisPerezcx&layout=compact&theme=radical)
-
+![Stats de Luis](https://github-readme-stats.vercel.app/api?username=LuisPerezcx&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPerezcx&layout=compact&theme=radical)
+![Stats](https://github-stats.pufler.dev/api?username=LuisPerezcx)
 
 <!--
 **LuisPerezcx/LuisPerezcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
