@@ -1,5 +1,6 @@
-# ¡Hola! Soy Luis David Pérez Cruz 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7456B&width=435&lines=Fullstack+Developer;Angular+%7C+NestJS+%7C+Spring+Boot;Founder+%40+TurnLink)](https://git.io/typing-svg)
 
+# ¡Hola! Soy Luis David Pérez Cruz 👋
 Desarrollador Fullstack apasionado por crear soluciones que resuelven problemas reales. Actualmente enfocado en el ecosistema de JavaScript/TypeScript y Java.
 
 ### 🚀 Lo que estoy haciendo ahora
@@ -7,43 +8,23 @@ Desarrollador Fullstack apasionado por crear soluciones que resuelven problemas 
 - 🛠️ **Founder & Lead Dev** en [TurnLink](https://turnlink.app/), un SaaS de automatización para WhatsApp.
 - 🎓 Finalizando la Licenciatura en Informática en la **UNSIJ**.
 
-### 🛠️ Mi Stack Tecnológico
-- **Frontend:** Angular 17, React, HTML5, CSS3.
-- **Backend:** NestJS, Spring Boot (Java), Node.js.
-- **Bases de Datos:** PostgreSQL, MongoDB, MySQL.
-- **Tools & DevOps:** CI/CD con Jenkins, DigitalOcean S3, Git, GraphQL, REST.
+### 🛠️ Tech Stack
+[![Skills](https://skillicons.dev/icons?i=angular,react,nestjs,spring,nodejs,ts,java,postgres,mongodb,mysql,git,docker&theme=dark)](https://skillicons.dev)
 
 ### 🌟 Proyectos Destacados
 - **TurnLink:** Automatización de servicios vía WhatsApp con Baileys y MongoDB.
 - **Gestión UNSIJ:** Plataforma de recolección económica con CI/CD implementado.
 
 ### 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/luis-david-perez/)
-- [Email](mailto:luisdavidperez61@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-david-perez/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisdavidperez61@gmail.com)
 
 ---
-### 🛠️ Tecnologías y Herramientas
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisPerezcx&theme=highcontrast&hide_border=true&locale=es)](https://git.io/streak-stats)
+<div align="center">
 
-<!--
-**LuisPerezcx/LuisPerezcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Streak](https://streak-stats.demolab.com?user=LuisPerezcx&theme=radical&hide_border=true)
 
-Here are some ideas to get you started:
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=LuisPerezcx&theme=radical&row=1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
