@@ -4,7 +4,7 @@ Desarrollador Fullstack apasionado por crear soluciones que resuelven problemas 
 
 ### 🚀 Lo que estoy haciendo ahora
 - 💻 **Fullstack Developer** en Friedrich Latam (Angular 17 & NestJS).
-- 🛠️ **Founder & Lead Dev** en [TurnLink](https://github.com/LuisPerezcx), un SaaS de automatización para WhatsApp.
+- 🛠️ **Founder & Lead Dev** en [TurnLink](https://turnlink.app/), un SaaS de automatización para WhatsApp.
 - 🎓 Finalizando la Licenciatura en Informática en la **UNSIJ**.
 
 ### 🛠️ Mi Stack Tecnológico
@@ -22,11 +22,9 @@ Desarrollador Fullstack apasionado por crear soluciones que resuelven problemas 
 - [Email](mailto:luisdavidperez61@gmail.com)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisPerezcx&show_icons=true&theme=radical" alt="Stats de Luis" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPerezcx&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
+![Stats de Luis](https://github-readme-stats.vercel.app/api?username=LuisPerezcx&show_icons=true&theme=radical)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPerezcx&layout=compact&theme=radical)
 
 
 <!--
